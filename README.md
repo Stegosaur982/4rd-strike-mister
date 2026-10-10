@@ -14,7 +14,7 @@ Initial working test on MiSTer Pi. Further gameplay testing is ongoing.
 
 ## Installation
 1. Copy the MRA file into your MiSTer `/_Arcade/` directory.
-2. Place the required ROM sets in the appropriate ROM directory expected by your MRA configuration.
+2. Place the required ROM sets in the /games/mame directory.
 3. Launch the game using the MiSTer Arcade menu.
 
 **ROM files are not included.** You must supply your own ROM files.
